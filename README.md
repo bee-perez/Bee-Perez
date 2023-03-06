@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 I’m looking for a job 
-- 🌱 I’m currently learning UX/UI Design
+- 🌱 I’m currently learning UX/UI Design and Systems for internet
 - 📫 Contact me in Linkedin: https://www.linkedin.com/in/perezbeatriz/
 
 <div align="center">
