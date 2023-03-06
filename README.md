@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 I’m looking for a job 
-- 🌱 I’m currently learning UX/UI Design from EBAC
+- 🌱 I’m currently learning UX/UI Design
 - 📫 Contact me in Linkedin: https://www.linkedin.com/in/perezbeatriz/
 
 <div align="center">
