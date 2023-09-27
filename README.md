@@ -3,6 +3,7 @@
 - 💼 I’m looking for a job 
 - 🌱 I’m currently learning Systems for internet
 - 📫 Contact me in Linkedin: https://www.linkedin.com/in/perezbeatriz/
+-   Behance: https://www.behance.net/beatrizperez17
 
 <div align="center">
   <a href="https://github.com/Bee-Pirez">
