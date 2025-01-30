@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 💼 I’m looking for a job 
-- 🌱 I’m currently learning Systems for internet
+- 🌱 I’m currently learning systems analysis and development
+- 🎓 Graduated in Systems for internet
 - 📫 Contact me in Linkedin: https://www.linkedin.com/in/perezbeatriz/
 -   Behance: https://www.behance.net/beatrizperez17
 
