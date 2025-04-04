@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/Bee-Pirez">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Bee-Pirez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bee-Pirez&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Bee-Perez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bee-Perez&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ## 👨🏻‍💻 I'm studying... ##
