@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9041E9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 - 💼 I’m looking for a job 
 - 🌱 I’m currently learning systems analysis and development
@@ -6,6 +10,7 @@
 - 📫 Contact me in Linkedin: https://www.linkedin.com/in/perezbeatriz/
 -   Behance: https://www.behance.net/beatrizperez17
 
+## ⭐ GitHub Stats
 <div align="center">
   <a href="https://github.com/Bee-Pirez">
   <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Bee-Perez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -24,6 +29,5 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
- 
 
 
